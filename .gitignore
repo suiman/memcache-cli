@@ -1,0 +1,5 @@
+*.o
+*.swp
+memcache-cli
+TODO
+/*.dSYM
